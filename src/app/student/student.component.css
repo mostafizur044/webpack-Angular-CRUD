@@ -1,0 +1,19 @@
+.maindiv{
+	padding: 30px;
+}
+.student-list{
+	margin-top: 30px;
+}
+.message{
+	padding: 10px;
+	z-index: 1000;
+}
+.modal-body{
+	padding: 30px;
+}
+.modal-body h4 {
+	margin-bottom: 20px; 
+}
+button{
+	cursor: pointer;
+}
